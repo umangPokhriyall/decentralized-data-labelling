@@ -1,0 +1,5 @@
+websocket for votes
+
+create graph to show vortes 
+
+no ssr bcz of how our authentication works localstorage
